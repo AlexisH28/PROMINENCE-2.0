@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "name": "Plan Postpago 2",
+        "type_plan": "PostPago",
+        "fixed_charge": 3500,
+        "cuantity_days": 7
+    },
+    {
+        "id": 3,
+        "name": "Plan Prueba 3",
+        "type_plan": "Prepago",
+        "fixed_charge": 1500,
+        "cuantity_days": 30
+    }
+]

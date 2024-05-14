@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Administrador",
+        "num_document": 1234567,
+        "address": "",
+        "phone": 1234567,
+        "email": "test@gmail.com",
+        "rol": "admin",
+        "type_client": ""
+    },
+    {
+        "id": 2,
+        "name": "Client 1 Prueba",
+        "num_document": 7654321,
+        "address": "",
+        "phone": 3007654321,
+        "email": "client1@gmail.com",
+        "rol": "client",
+        "type_client": "new client"
+    },
+    {
+        "id": 3,
+        "name": "Client AirPods",
+        "num_document": "1234567",
+        "address": "calle 20",
+        "phone": "3001234567",
+        "email": "test@gmail.com",
+        "rol": "client",
+        "type_client": "new client"
+    }
+]

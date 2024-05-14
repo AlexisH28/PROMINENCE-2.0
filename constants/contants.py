@@ -1,0 +1,5 @@
+HEADERS_USERS = ["Id", "Nombre", "Document", "Direccion", "Telefono", "Email", "Rol", "Tipo de Cliente"]
+HEADERS_PLANS = ["Id", "Nombre", "Tipo de Plan", "Cargo Fijo", "Cantidad Dias"]
+HEADERS_FIBER = ["Id", "Nombre", "Precio", "Capacidcad"]
+HEADERS_PRODUCTS = ["Id", "Nombre", "Marca", "Tipo de Producto", "Precio", "Garantia", "Existencias"]
+HEADERS_INFO_USER_PS = ["Nombre Cliente", "Email Cliente", "Nombre Servicio/Producto", "Precio Venta", "Cantidad"]

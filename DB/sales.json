@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "type_ps": "plan",
+        "id_ps": 2,
+        "id_user": 3,
+        "cuantity": 0,
+        "price_sale": 24500,
+        "date_sale": "14-05-2024",
+        "status": true
+    },
+    {
+        "id": 2,
+        "type_ps": "plan",
+        "id_ps": 2,
+        "id_user": 3,
+        "cuantity": 0,
+        "price_sale": 24500,
+        "date_sale": "14-05-2024",
+        "status": true
+    },
+    {
+        "id": 3,
+        "type_ps": "product",
+        "id_ps": 5,
+        "id_user": 2,
+        "cuantity": 3,
+        "price_sale": 4500600,
+        "date_sale": "14-05-2024",
+        "status": true
+    },
+    {
+        "id": 4,
+        "type_ps": "plan",
+        "id_ps": 3,
+        "id_user": 2,
+        "cuantity": 0,
+        "price_sale": 45000,
+        "date_sale": "14-05-2024",
+        "status": true
+    },
+    {
+        "id": 5,
+        "type_ps": "optical_fiber",
+        "id_ps": 1,
+        "id_user": 3,
+        "cuantity": 0,
+        "price_sale": 125000,
+        "date_sale": "14-05-2024",
+        "status": true
+    }
+]

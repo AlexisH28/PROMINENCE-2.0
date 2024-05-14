@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Galaxy Z Flip S",
+        "mark": "Samsung",
+        "type_product": "phone",
+        "price": 4299950,
+        "warranty": "3 months",
+        "stock": 0
+    },
+    {
+        "id": 2,
+        "name": "AirPods 2nd Generation",
+        "mark": "Apple",
+        "type_product": "audiophone",
+        "price": 792960,
+        "warranty": "3 months",
+        "stock": 3
+    },
+    {
+        "id": 3,
+        "name": "Gamer Ryzen MDB",
+        "mark": "AMD Ryzen",
+        "type_product": "computer",
+        "price": 2830000,
+        "warranty": "12 months",
+        "stock": 3
+    },
+    {
+        "id": 5,
+        "name": "Huawei Y9 Prime",
+        "mark": "Huawei",
+        "type_product": "celular",
+        "price": 4500600,
+        "warranty": "6 meses",
+        "stock": 7
+    }
+]
