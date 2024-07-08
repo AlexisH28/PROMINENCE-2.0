@@ -40,9 +40,9 @@ https://github.com/AlexisH28/PROMINENCE-2.0
 ¡Me encantaría recibir tus contribuciones! Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 - Haz un fork del proyecto.
-- Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-- Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
-- Empuja la rama (git push origin feature/nueva-funcionalidad).
+- Crea una nueva rama `(git checkout -b feature/nueva-funcionalidad)`.
+- Realiza tus cambios y haz commit `(git commit -am 'Añadir nueva funcionalidad')`.
+- Empuja la rama `(git push origin feature/nueva-funcionalidad)`.
 - Abre un Pull Request.
 
 > [!NOTE]
