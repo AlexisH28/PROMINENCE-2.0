@@ -24,9 +24,9 @@ Primer Proyecto realizado en Python, basado fundamentalmente en la creación de 
 
 - **Python:** Lenguaje de programación de alto nivel, interpretado y generalmente considerado fácil de aprender y leer. 
 
-> [!IMPORTANT]
-> ## USO 🔧
 
+## USO 🔧
+> [!IMPORTANT]
 - **Clona este repositorio:**
   
 https://github.com/AlexisH28/PROMINENCE-2.0
