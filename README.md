@@ -1,6 +1,6 @@
 # PROMINENCE-2.0 ⚡️
 
-## Tabla de Contenido
+## Tabla de Contenido 📋
 | Indice | Título  |
 |--|--|
 | 1. | [Descripción](#Descripción) |
@@ -16,9 +16,9 @@ Primer Proyecto realizado en Python, basado fundamentalmente en la creación de 
 
 ## Funcionalidades 🌐
 
-- **Gestión de Usuarios:** 
-- **Gestión de Servicios:** 
-- **Gestión de Productos:** 
+- **Gestión de Usuarios:** Registro y administración de usuarios, registro de actividad. Todo esto, mediante **CRUDS**.
+- **Gestión de Servicios:** Diversas operaciones (CRUDS) para lograr monitorear los servicios y tener un registro de estos. Es decir, permite crear, leer, actualizar y eliminar los servicios.
+- **Gestión de Productos:** Diversas operaciones (CRUDS) para lograr monitorear los productos y tener un registro de estos. Es decir, permite crear, leer, actualizar y eliminar los productos.
 
 ## Tecnologías 🖥️
 
