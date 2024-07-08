@@ -27,7 +27,7 @@ Primer Proyecto realizado en Python, basado fundamentalmente en la creación de 
 
 ## USO 🔧
 > [!IMPORTANT]
-- **Clona este repositorio:**
+>- **Clona este repositorio:**
   
 https://github.com/AlexisH28/PROMINENCE-2.0
 - Configura todo lo relacionado a con Python.
