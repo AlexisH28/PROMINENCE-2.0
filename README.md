@@ -12,7 +12,7 @@
 
 ## Descripción 🚀
 
-Primer Proyecto realizado en Python, basado fundamentalmente en la creación de un sistema operativo de gestión de usuarios y servicios, al igual que venta de productos. Todo esto, implementado en diversos CRUDS y persistencia de datos mediante archivos .JSON. Tomando como referencia a Claro.📞
+Primer Proyecto realizado en Python, basado fundamentalmente en la creación de un software de gestión de usuarios y servicios, al igual que venta de productos. Todo esto, implementado en diversos CRUDS y persistencia de datos mediante archivos .JSON. Tomando como referencia a Claro.📞
 
 ## Funcionalidades 🌐
 
